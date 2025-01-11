@@ -93,5 +93,12 @@ This repository contains two Jupyter Notebooks that collectively demonstrate a u
    - Extend the model to predict prices of other cryptocurrencies or financial assets.
    - Deploy the model as a web application or API for wider accessibility.
 
+## Acknowledgements
+
+This project is inspired by a tutorial provided by the [DataQuest YouTube channel](https://www.youtube.com/user/DataquestIO). The base code has been adapted with a slightly different approach, replacing the Hugging Face pre-trained sentiment analysis model with `TextBlob`, resulting in improved interpretability and better results. 
+
+Special thanks to DataQuest for providing the foundational concepts and guidance that shaped this work.
+
+
 
   
